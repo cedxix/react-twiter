@@ -1,0 +1,27 @@
+{
+  "name": "react-twiter",
+  "description": "Simple twitter like app build with reactJS",
+  "main": "index.js",
+  "authors": [
+    "Cedric D. Anidie (cedxix)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "tutorial",
+    "twitter"
+  ],
+  "homepage": "https://github.com/cedxix/react-twiter",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4"
+  }
+}
